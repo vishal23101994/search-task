@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Public Amenity Search Map</title>
+  <link rel="stylesheet" href="leaflet/dist/leaflet.css">
+  <link rel="stylesheet" href="plugins/sidebar/L.Control.Sidebar.css">
+  <link rel="stylesheet" href="plugins/easybutton/easy-button.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="plugins/mouseposition/L.Control.MousePosition.css">
+  <link rel="stylesheet" href="plugins/minimap/Control.MiniMap.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- MAP CONTAINER -->
+
+  <div id="map"></div>
+  <div id="search-box">
+    <input type="text" id="searchInput" placeholder="Search amenity type... (e.g., park, hospital)">
+    <button id="searchBtn"><i class="fa fa-search"></i></button>
+    <button id="resetBtn"><i class="fa fa-undo"></i></button>
+  </div>
+  
+  <!-- LEAFLET JS -->
+
+  <script src="leaflet/dist/leaflet.js"></script>
+  <script src="plugins/sidebar/L.Control.Sidebar.js"></script>
+  <script src="plugins/easybutton/easy-button.js"></script>
+
+  <!-- <script src="jquery/jquery-ui.min.js"></script> -->
+
+  <script src="plugins/mouseposition/L.Control.MousePosition.js"></script>
+  <script src="plugins/minimap/Control.MiniMap.min.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
