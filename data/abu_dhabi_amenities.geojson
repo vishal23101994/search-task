@@ -1,0 +1,137 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [54.3853, 24.4533]
+        },
+        "properties": {
+          "Name": "Umm Al Emarat Park",
+          "Type": "Park"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [54.4376, 24.4339]
+        },
+        "properties": {
+          "Name": "Khalifa Park",
+          "Type": "Park"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [54.3521, 24.4925]
+        },
+        "properties": {
+          "Name": "Corniche Beach Park",
+          "Type": "Park"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [54.3688, 24.4811]
+        },
+        "properties": {
+          "Name": "Capital Park",
+          "Type": "Park"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [54.4039, 24.5029]
+        },
+        "properties": {
+          "Name": "Cleveland Clinic Abu Dhabi",
+          "Type": "Hospital"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [54.3725, 24.4751]
+        },
+        "properties": {
+          "Name": "NMC Specialty Hospital",
+          "Type": "Hospital"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [54.3842, 24.4699]
+        },
+        "properties": {
+          "Name": "Burjeel Hospital",
+          "Type": "Hospital"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [54.3981, 24.4485]
+        },
+        "properties": {
+          "Name": "Mediclinic Airport Road Hospital",
+          "Type": "Hospital"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [54.3032, 24.5097]
+        },
+        "properties": {
+          "Name": "Qasr Al Watan Library",
+          "Type": "Library"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [54.3791, 24.4665]
+        },
+        "properties": {
+          "Name": "Maktoum Bin Rashid Al Maktoum Library",
+          "Type": "Library"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [54.6098, 24.5321]
+        },
+        "properties": {
+          "Name": "Al Bahia Library",
+          "Type": "Library"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [54.4095, 24.4950]
+        },
+        "properties": {
+          "Name": "Reem Island Central Park",
+          "Type": "Park"
+        }
+      }
+    ]
+  }
